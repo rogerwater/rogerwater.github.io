@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jin Zhang"
   avatar           : "profile.png"
-  bio              : "The Rise And Fall of Ziggy Stardust And The Spiders from Mars"
+  bio              : "And you and I climb over the sea to the valley"
   location         : "Xi'an, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/R0gerWater"
   vine             :
   weibo            :
   xing             :
